@@ -1,10 +1,17 @@
 ![banner](https://i.imgur.com/GUrr5fy.png)
 <h1 align="center">Hi 👋, I’m Pierre</h1>
 <h3 align="center">A Software Engineer and Cyber Security Enthusiast</h3> 
-- 👀 I’m interested in code, automation, and learning
-- 🌱 I’m currently learning [Golang](https://go.dev/), and [Kotlin](https://kotlinlang.org/) 
-- ⚡ Fun fact **I'm also interested in Cyber security, and Web3!**
 
+- 👀 I’m interested in code, automation, and learning
+
+- 🔭 I’m currently working on **Cyber Security**
+
+- 🌱 I’m currently learning [Go](https://go.dev) and [Kotlin](https:/kotlinlang.org/)
+
+- 💬 Ask me about **IT automation** 
+
+- ⚡ Fun fact **I'm also interested in Cyber Security, and Web3!**
+ 
 <h3 align=left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
